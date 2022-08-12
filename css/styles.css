@@ -14,3 +14,20 @@ body {
 .social-links .link:focus {
   color: skyblue;
 }
+
+.social-links .link:active {
+  color: yellowgreen;
+}
+
+.social-links .link:visited {
+  color: purple;
+}
+
+.schedule-body>tr:hover {
+  background-color: yellowgreen;
+  color: white;
+}
+
+.post {
+  color: green;
+}
